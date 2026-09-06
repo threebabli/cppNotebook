@@ -1,0 +1,53 @@
+# Compiled executables
+*.out
+*.exe
+*.app
+a.out
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.dSYM/
+*.dSYM
+
+# Build directories
+build/
+bin/
+dist/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+CTestTestfile.cmake
+_install/
+
+# VS Code
+.vscode/
+
+# Zed
+.zed/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Core dumps
+core
+core.*
+
+# IDE/editor files
+.idea/
+
+# C++ generated files
+*.gch
+*.pch
