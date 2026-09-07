@@ -12,7 +12,7 @@ int main()
 
     int sum= a+b;
     
-    cout << "sum=" << sum;
+    cout << "sum of a and b is equal to=" << sum;
     return 0;
     
 }
