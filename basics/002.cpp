@@ -1,5 +1,5 @@
 // author: threebabli
-// program: variable
+// program: print variable
 
 #include <iostream>
 
